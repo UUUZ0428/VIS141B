@@ -1,2 +1,2 @@
 # VIS141B
-course project
+Course project, uses pygame to control a cluster of 4 screens. 
